@@ -1,1 +1,0 @@
-var json__4326_2 = {"type":"FeatureCollection","name":"_4326_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"가맹점명":"다이소 (안양박달시장점)","사용가능지":"안양사랑페이","소재지도로":"경기도 안양시 만안구 양화로136번길 39 12층 (박달동)","업종명":"체인스토어","데이터기준":"2025-06-12"},"geometry":{"type":"Point","coordinates":[126.9111765,37.4056267]}}]}
